@@ -32,7 +32,6 @@ A Machine Learning based SMS Spam Classifier built using Natural Language Proces
 
 * Python
 * Pandas
-* NumPy
 * Scikit-learn
 * NLTK
 * Matplotlib
